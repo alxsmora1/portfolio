@@ -35,7 +35,7 @@ class AboutMe extends Component {
           </div>
           <div class="row justify-content-center">
             <div class="col-lg-4">
-              <Card className="shadow mb-3">
+              <Card className="shadow mb-3 bottom-color">
                 <CardBody>
                   <CardTitle tag="h5" className="text-center">
                     ME
@@ -66,10 +66,10 @@ class AboutMe extends Component {
               </Card>
             </div>
             <div class="col-lg-4">
-              <Card className="shadow mb-3">
+              <Card className="shadow mb-3 bottom-color">
                 <CardBody>
                   <CardTitle tag="h5" className="text-center">
-                    Skills
+                    SKILLS
                   </CardTitle>
                   <CardText>
                     <List type="unstyled">
@@ -105,10 +105,10 @@ class AboutMe extends Component {
               </Card>
             </div>
             <div class="col-lg-4">
-              <Card className="shadow mb-3">
+              <Card className="shadow mb-3 bottom-color">
                 <CardBody>
                   <CardTitle tag="h5" className="text-center">
-                    My Stack
+                    STACK
                   </CardTitle>
                   <CardText>
                     <List type="unstyled">
