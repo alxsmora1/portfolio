@@ -10206,3 +10206,8 @@ h3 {
 .pointer {
   cursor: pointer;
 }
+
+.bottom-color {
+  border: 0;
+  border-bottom: 0.25rem solid #64a19d;
+}
