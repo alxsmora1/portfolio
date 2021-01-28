@@ -33,36 +33,56 @@ class Portfolio extends Component {
               body="A hybrid app for access control published in Play Store and App Store."
               image={image01}
               skills={["Apache Cordova", "Javascript", "HTML5", "CSS3", "API"]}
+              link="https://apps.apple.com/mx/app/accessklic/id1536610184"
             />
             <IndividualProjects
               title="JCHF Construcción"
               body="A modern website development for a construction company."
               image={image02}
-              skills={["Symfony 5", "Bootstrap 4", "PHP", "Javascript", "HTML5", "CSS3"]}
+              skills={[
+                "Symfony 5",
+                "Bootstrap 4",
+                "PHP",
+                "Javascript",
+                "HTML5",
+                "CSS3",
+              ]}
+              link="https://jcfhconstruccion.com.mx/"
             />
             <IndividualProjects
               title="React Weather Site"
               body="A site that allows users to obtain the current weather of its city."
               image={image03}
               skills={["ReactJS", "Shards UI", "Javascript", "HTML5", "CSS3"]}
+              link="https://alxsmora1.github.io/react-weather-app/"
             />
             <IndividualProjects
               title="Accessklic Landing Page"
               body="A promotional landing page for the Accessklic App."
               image={image04}
               skills={["Bootstrap 4", "Javascript", "HTML5", "CSS3"]}
+              link="https://accessklic.com.mx/"
             />
             <IndividualProjects
               title="React Simple Sidebar"
               body="A Start Bootstrap HTML template which I turned into a React application."
               image={image05}
               skills={["ReactJS", "Bootstrap 4", "Javascript", "HTML5", "CSS3"]}
+              link="https://alxsmora1.github.io/react-simple-sidebar/"
             />
             <IndividualProjects
               title="Accessklic Dashboard"
               body="A dashboard that allows the administrator of accessklic to handle API REST, handle users/system data, and other admin functions."
               image={image06}
-              skills={["Symfony 5", "TailwindCSS", "PHP", "Javascript", "HTML5", "CSS3"]}
+              skills={[
+                "Symfony 5",
+                "TailwindCSS",
+                "PHP",
+                "Javascript",
+                "HTML5",
+                "CSS3",
+              ]}
+              link="https://dashboard.accessklic.com.mx/"
             />
           </div>
         </div>

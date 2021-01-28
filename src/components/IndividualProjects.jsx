@@ -6,10 +6,8 @@ import Swal from "sweetalert2";
 import withReactContent from "sweetalert2-react-content";
 
 class IndividualProjects extends Component {
-  showModal = (title, body, image, skills) => {
-    const listItems = skills.map((skill) => (
-      ' ' + skill
-    ));
+  showModal = (title, body, image, skills, link) => {
+    const listItems = skills.map((skill) => " " + skill);
 
     const MySwal = withReactContent(Swal);
 
@@ -23,9 +21,14 @@ class IndividualProjects extends Component {
         '<p class="text-center lead">' +
         body +
         "</p>" +
-        '<p class="lead text-center"><strong>Build with: </strong></P>' +
-        listItems,
+        '<p class="lead text-center"><strong>Build with</strong></P>' +
+        listItems +
+        "<br><br>" +
+        '<a href="' +
+        link +
+        '" target="_BLANK">Go to project</a>',
       showCloseButton: true,
+      confirmButtonText: "Close",
     });
   };
 
@@ -43,11 +46,12 @@ class IndividualProjects extends Component {
                     this.props.title,
                     this.props.body,
                     this.props.image,
-                    this.props.skills
+                    this.props.skills,
+                    this.props.link
                   )
                 }
               >
-                <FontAwesomeIcon icon={faPlus} />
+                <FontAwesomeIcon icon={faPlus} /> Show More
               </button>
             </div>
           </div>
