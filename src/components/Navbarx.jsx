@@ -5,14 +5,8 @@ import {
   Collapse,
   Navbar,
   NavbarToggler,
-  NavbarBrand,
   Nav,
-  NavItem,
-  NavLink,
-  UncontrolledDropdown,
-  DropdownToggle,
-  DropdownMenu,
-  DropdownItem,
+  NavItem
 } from "reactstrap";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
