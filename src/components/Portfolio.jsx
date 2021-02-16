@@ -7,10 +7,11 @@ import { faCode } from "@fortawesome/free-solid-svg-icons";
 
 import image01 from "../images/portfolio/accessklic-app.png";
 import image02 from "../images/portfolio/jcfh-site.png";
-import image03 from "../images/portfolio/react-weather-app.jpg";
+import image03 from "../images/portfolio/react-weather-app.png";
 import image04 from "../images/portfolio/accessklic-site.png";
-import image05 from "../images/portfolio/react-simple-sidebar.jpg";
-import image06 from "../images/portfolio/accessklic-demo.jpg";
+import image05 from "../images/portfolio/react-simple-sidebar.png";
+import image06 from "../images/portfolio/accessklic-demo.png";
+import image07 from "../images/portfolio/react-criptocurrency.png";
 
 class Portfolio extends Component {
   render() {
@@ -83,6 +84,20 @@ class Portfolio extends Component {
                 "CSS3",
               ]}
               link="https://dashboard.accessklic.com.mx/"
+            />
+            <IndividualProjects
+              title="Criptocurrrency Prices"
+              body="A React Project to see the prices of the six most important criptos using the Coingecko API."
+              image={image07}
+              skills={[
+                "ReactJS",
+                "ShardsUI",
+                "Bootstrap",
+                "Javascript",
+                "HTML5",
+                "CSS3",
+              ]}
+              link="https://alxsmora1.github.io/react-criptocurrency-prices/"
             />
           </div>
         </div>
