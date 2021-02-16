@@ -5,12 +5,13 @@ import IndividualProjects from "./IndividualProjects";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCode } from "@fortawesome/free-solid-svg-icons";
 
-import image01 from "../images/portfolio/accessklic_app.png";
-import image02 from "../images/portfolio/jcfh.png";
-import image03 from "../images/portfolio/react_weather_app.jpg";
-import image04 from "../images/portfolio/accessklic_site.png";
-import image05 from "../images/portfolio/react_simple_sidebar.jpg";
-import image06 from "../images/portfolio/accessklic_dashboard.jpg";
+import image01 from "../images/portfolio/accessklic-app.png";
+import image02 from "../images/portfolio/jcfh-site.png";
+import image03 from "../images/portfolio/react-weather-app.png";
+import image04 from "../images/portfolio/accessklic-site.png";
+import image05 from "../images/portfolio/react-simple-sidebar.png";
+import image06 from "../images/portfolio/accessklic-demo.png";
+import image07 from "../images/portfolio/react-criptocurrency.png";
 
 class Portfolio extends Component {
   render() {
@@ -36,7 +37,7 @@ class Portfolio extends Component {
               link="https://apps.apple.com/mx/app/accessklic/id1536610184"
             />
             <IndividualProjects
-              title="JCHF Construcción"
+              title="JCFH Construcción"
               body="A modern website development for a construction company."
               image={image02}
               skills={[
@@ -83,6 +84,20 @@ class Portfolio extends Component {
                 "CSS3",
               ]}
               link="https://dashboard.accessklic.com.mx/"
+            />
+            <IndividualProjects
+              title="Criptocurrrency Prices"
+              body="A React Project to see the prices of the six most important criptos using the Coingecko API."
+              image={image07}
+              skills={[
+                "ReactJS",
+                "ShardsUI",
+                "Bootstrap",
+                "Javascript",
+                "HTML5",
+                "CSS3",
+              ]}
+              link="https://alxsmora1.github.io/react-criptocurrency-prices/"
             />
           </div>
         </div>
