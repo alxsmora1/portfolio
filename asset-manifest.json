@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a51244be.chunk.css",
-    "main.js": "/portfolio/static/js/main.ae1dd5d3.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.ae1dd5d3.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.1c7d6d5b.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.1c7d6d5b.js.map",
-    "static/css/2.ec02d681.chunk.css": "/portfolio/static/css/2.ec02d681.chunk.css",
-    "static/js/2.b0434e36.chunk.js": "/portfolio/static/js/2.b0434e36.chunk.js",
-    "static/js/2.b0434e36.chunk.js.map": "/portfolio/static/js/2.b0434e36.chunk.js.map",
-    "static/js/3.dea55d67.chunk.js": "/portfolio/static/js/3.dea55d67.chunk.js",
-    "static/js/3.dea55d67.chunk.js.map": "/portfolio/static/js/3.dea55d67.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.4f498efc.chunk.css",
+    "main.js": "/portfolio/static/js/main.b409ac65.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b409ac65.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.b93dd8e0.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.b93dd8e0.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/portfolio/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.afc1fd62.chunk.js": "/portfolio/static/js/2.afc1fd62.chunk.js",
+    "static/js/2.afc1fd62.chunk.js.map": "/portfolio/static/js/2.afc1fd62.chunk.js.map",
+    "static/js/3.8165668c.chunk.js": "/portfolio/static/js/3.8165668c.chunk.js",
+    "static/js/3.8165668c.chunk.js.map": "/portfolio/static/js/3.8165668c.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/2.ec02d681.chunk.css.map": "/portfolio/static/css/2.ec02d681.chunk.css.map",
-    "static/css/main.a51244be.chunk.css.map": "/portfolio/static/css/main.a51244be.chunk.css.map",
-    "static/js/2.b0434e36.chunk.js.LICENSE.txt": "/portfolio/static/js/2.b0434e36.chunk.js.LICENSE.txt",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/portfolio/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.4f498efc.chunk.css.map": "/portfolio/static/css/main.4f498efc.chunk.css.map",
+    "static/js/2.afc1fd62.chunk.js.LICENSE.txt": "/portfolio/static/js/2.afc1fd62.chunk.js.LICENSE.txt",
     "static/media/accessklic-app.5af3ee94.png": "/portfolio/static/media/accessklic-app.5af3ee94.png",
     "static/media/accessklic-demo.886bb8cf.png": "/portfolio/static/media/accessklic-demo.886bb8cf.png",
     "static/media/accessklic-site.9d470d3b.png": "/portfolio/static/media/accessklic-site.9d470d3b.png",
@@ -21,14 +21,15 @@
     "static/media/styles.css": "/portfolio/static/media/dev.9b88aa16.jpg",
     "static/media/jcfh-site.0023ef2b.png": "/portfolio/static/media/jcfh-site.0023ef2b.png",
     "static/media/react-criptocurrency.57058d2b.png": "/portfolio/static/media/react-criptocurrency.57058d2b.png",
+    "static/media/react-quiz.7ffb5621.png": "/portfolio/static/media/react-quiz.7ffb5621.png",
     "static/media/react-simple-sidebar.76431f06.png": "/portfolio/static/media/react-simple-sidebar.76431f06.png",
     "static/media/react-weather-app.eada1699.png": "/portfolio/static/media/react-weather-app.eada1699.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1c7d6d5b.js",
-    "static/css/2.ec02d681.chunk.css",
-    "static/js/2.b0434e36.chunk.js",
-    "static/css/main.a51244be.chunk.css",
-    "static/js/main.ae1dd5d3.chunk.js"
+    "static/js/runtime-main.b93dd8e0.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.afc1fd62.chunk.js",
+    "static/css/main.4f498efc.chunk.css",
+    "static/js/main.b409ac65.chunk.js"
   ]
 }
