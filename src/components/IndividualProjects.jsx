@@ -28,7 +28,7 @@ class IndividualProjects extends Component {
         link +
         '" target="_BLANK">Go to project</a>',
       showCloseButton: true,
-      confirmButtonText: "Close",
+      showConfirmButton: false,
     });
   };
 
