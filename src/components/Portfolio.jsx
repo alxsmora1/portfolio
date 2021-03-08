@@ -12,6 +12,7 @@ import image04 from "../images/portfolio/accessklic-site.png";
 import image05 from "../images/portfolio/react-simple-sidebar.png";
 import image06 from "../images/portfolio/accessklic-demo.png";
 import image07 from "../images/portfolio/react-criptocurrency.png";
+import image08 from "../images/portfolio/react-quiz.png";
 
 class Portfolio extends Component {
   render() {
@@ -98,6 +99,19 @@ class Portfolio extends Component {
                 "CSS3",
               ]}
               link="https://alxsmora1.github.io/react-criptocurrency-prices/"
+            />
+            <IndividualProjects
+              title="React Quiz"
+              body="A React Quiz with Open Trivia DB."
+              image={image08}
+              skills={[
+                "ReactJS",
+                "Styled Components",
+                "TypeScript",
+                "HTML5",
+                "CSS3",
+              ]}
+              link="https://alxsmora1.github.io/react-quiz/"
             />
           </div>
         </div>
