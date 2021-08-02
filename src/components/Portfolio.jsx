@@ -8,7 +8,7 @@ import { faCode } from "@fortawesome/free-solid-svg-icons";
 import image01 from "../images/portfolio/accessklic-app.png";
 import image02 from "../images/portfolio/jcfh-site.png";
 import image03 from "../images/portfolio/react-weather-app.png";
-import image04 from "../images/portfolio/accessklic-site.png";
+//import image04 from "../images/portfolio/accessklic-site.png";
 import image05 from "../images/portfolio/react-simple-sidebar.png";
 import image06 from "../images/portfolio/accessklic-demo.png";
 import image07 from "../images/portfolio/react-criptocurrency.png";
