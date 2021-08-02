@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import avatar from '../images/avataaars.png';
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faCode, } from "@fortawesome/free-solid-svg-icons";
+import { faCode } from "@fortawesome/free-solid-svg-icons";
 import { faTwitter, faHackerrank, faLinkedinIn, faGithub } from "@fortawesome/free-brands-svg-icons";
 
 class Masthead extends Component {
